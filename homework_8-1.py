@@ -1,5 +1,5 @@
 
-#naloga 8.1
+# naloga 8.1
 
 mood = input("Vpiši tvoje razpoloženje: ")
 
@@ -9,4 +9,3 @@ elif mood == "nervozen":
     print("Globoko vdihni 3-krat!")
 else:
     print("Ne poznam tega razpoloženja :-(")
-
