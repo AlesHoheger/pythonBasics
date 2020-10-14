@@ -1,5 +1,5 @@
 
-#homework 8.3
+# homework 8.3
 
 stevilo_1 = int(input("Vpiši prvo številko: "))
 stevilo_2 = int(input("Vpiši drugo številko: "))
