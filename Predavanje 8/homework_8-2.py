@@ -13,7 +13,7 @@ while True:
         with open("highscore.txt", "r") as scores:
             best_score = int(scores.read())
         if poizkus < best_score:
-            with open("highscore.txt, "a") as scores:
+            with open("highscore.txt", "a") as scores:
                 scores.write(str(poizkus))
 
         break
